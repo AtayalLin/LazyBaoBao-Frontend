@@ -4,6 +4,12 @@
 > 後端連結 : https://github.com/Toung0507/global_meals_gradle/tree/dev-Ataya
 ---
 
+## 完整開發歷程
+本 repository 為前端部分的整理版本。完整團隊開發歷程（含後端協作、
+28次提交記錄）請見：
+https://github.com/Toung0507/global_meals/tree/dev-Ataya-Branches
+---
+
 ## 專案簡介
 
 **懶飽飽（LazyBaoBao）** 是一個以 Angular 19 開發的餐飲全端管理系統，包含三個主要入口：
