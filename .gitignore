@@ -48,3 +48,11 @@ Thumbs.db
 
 # API Key 環境設定（各自填入自己的 key，不 commit）
 src/environments/environment.ts
+
+# Playwright
+node_modules/
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
+/playwright/.auth/
